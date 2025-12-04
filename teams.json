@@ -1,0 +1,473 @@
+{
+  "club": "CLUB SPORT ET LOISIRS BONS EN CHABLAIS",
+  "teams": [
+    {
+      "label": "Séniors Homme",
+      "key": "SH",
+      "matches": [
+        {
+          "label": "2025-09-14 · @ Annemasse",
+          "date": "2025-09-14",
+          "home_away": "E",
+          "opponent": "Annemasse",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1551"
+        },
+        {
+          "label": "2025-09-20 · vs Thonon",
+          "date": "2025-09-20",
+          "home_away": "D",
+          "opponent": "Thonon",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1735"
+        },
+        {
+          "label": "2025-09-28 · @ Aix en Savoie",
+          "date": "2025-09-28",
+          "home_away": "E",
+          "opponent": "Aix en Savoie",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1553"
+        },
+        {
+          "label": "2025-10-04 · vs Chambéry",
+          "date": "2025-10-04",
+          "home_away": "D",
+          "opponent": "Chambéry",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1736"
+        },
+        {
+          "label": "2025-10-11 · @ Evian",
+          "date": "2025-10-11",
+          "home_away": "E",
+          "opponent": "Evian",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1737"
+        },
+        {
+          "label": "2025-11-08 · vs Le Bourget",
+          "date": "2025-11-08",
+          "home_away": "D",
+          "opponent": "Le Bourget",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1738"
+        },
+        {
+          "label": "2025-11-22 · @ Albens",
+          "date": "2025-11-22",
+          "home_away": "E",
+          "opponent": "Albens",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1739"
+        },
+        {
+          "label": "2025-11-29 · vs Belley",
+          "date": "2025-11-29",
+          "home_away": "D",
+          "opponent": "Belley",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1740"
+        },
+        {
+          "label": "2025-12-06 · @ Montréal",
+          "date": "2025-12-06",
+          "home_away": "E",
+          "opponent": "Montréal",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1741"
+        },
+        {
+          "label": "2025-12-13 · vs La Roche",
+          "date": "2025-12-13",
+          "home_away": "D",
+          "opponent": "La Roche",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1742"
+        },
+        {
+          "label": "2026-01-10 · @ Rumilly",
+          "date": "2026-01-10",
+          "home_away": "E",
+          "opponent": "Rumilly",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1743"
+        },
+        {
+          "label": "2026-01-17 · vs Annemasse",
+          "date": "2026-01-17",
+          "home_away": "D",
+          "opponent": "Annemasse",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1744"
+        },
+        {
+          "label": "2026-01-24 · @ Thonon",
+          "date": "2026-01-24",
+          "home_away": "E",
+          "opponent": "Thonon",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1745"
+        },
+        {
+          "label": "2026-01-31 · vs Aix en Savoie",
+          "date": "2026-01-31",
+          "home_away": "D",
+          "opponent": "Aix en Savoie",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1746"
+        },
+        {
+          "label": "2026-02-28 · @ Chambéry",
+          "date": "2026-02-28",
+          "home_away": "E",
+          "opponent": "Chambéry",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1747"
+        },
+        {
+          "label": "2026-03-14 · vs Evian",
+          "date": "2026-03-14",
+          "home_away": "D",
+          "opponent": "Evian",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1748"
+        },
+        {
+          "label": "2026-03-21 · @ Le Bourget",
+          "date": "2026-03-21",
+          "home_away": "E",
+          "opponent": "Le Bourget",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1749"
+        },
+        {
+          "label": "2026-03-28 · vs Albens",
+          "date": "2026-03-28",
+          "home_away": "D",
+          "opponent": "Albens",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1750"
+        },
+        {
+          "label": "2026-04-25 · @ Belley",
+          "date": "2026-04-25",
+          "home_away": "E",
+          "opponent": "Belley",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1751"
+        },
+        {
+          "label": "2026-05-09 · vs Montréal",
+          "date": "2026-05-09",
+          "home_away": "D",
+          "opponent": "Montréal",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1752"
+        },
+        {
+          "label": "2026-05-23 · @ La Roche",
+          "date": "2026-05-23",
+          "home_away": "E",
+          "opponent": "La Roche",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1753"
+        },
+        {
+          "label": "2026-05-30 · vs Rumilly",
+          "date": "2026-05-30",
+          "home_away": "D",
+          "opponent": "Rumilly",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-1/1754"
+        }
+      ]
+    },
+    {
+      "label": "-18 Garçons",
+      "key": "18G",
+      "matches": [
+        {
+          "label": "2025-10-04 · @ Genevois",
+          "date": "2025-10-04",
+          "home_away": "E",
+          "opponent": "Genevois",
+          "edit_url": ""
+        },
+        {
+          "label": "2025-10-12 · @ Annecy CSAV",
+          "date": "2025-10-12",
+          "home_away": "E",
+          "opponent": "Annecy CSAV",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-3/1859"
+        },
+        {
+          "label": "2025-11-08 · vs Cruseilles",
+          "date": "2025-11-08",
+          "home_away": "D",
+          "opponent": "Cruseilles",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-3/1860"
+        },
+        {
+          "label": "2025-11-15 · vs Sallanches",
+          "date": "2025-11-15",
+          "home_away": "D",
+          "opponent": "Sallanches",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-3/1861"
+        },
+        {
+          "label": "2025-11-29 · @ Rumilly",
+          "date": "2025-11-29",
+          "home_away": "E",
+          "opponent": "Rumilly",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-3/1862"
+        }
+      ]
+    },
+    {
+      "label": "-18 Filles",
+      "key": "18F",
+      "matches": [
+        {
+          "label": "2025-10-05 · @ Annemasse",
+          "date": "2025-10-05",
+          "home_away": "E",
+          "opponent": "Annemasse",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-4/1847"
+        },
+        {
+          "label": "2025-11-08 · @ Revermont",
+          "date": "2025-11-08",
+          "home_away": "E",
+          "opponent": "Revermont",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-4/1848"
+        },
+        {
+          "label": "2025-11-15 · vs Ferney",
+          "date": "2025-11-15",
+          "home_away": "D",
+          "opponent": "Ferney",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-4/1849"
+        },
+        {
+          "label": "2025-11-29 · @ Annecy",
+          "date": "2025-11-29",
+          "home_away": "E",
+          "opponent": "Annecy",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-4/1850"
+        },
+        {
+          "label": "2025-12-06 · vs Evian",
+          "date": "2025-12-06",
+          "home_away": "D",
+          "opponent": "Evian",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-4/1851"
+        }
+      ]
+    },
+    {
+      "label": "-13 Garçons",
+      "key": "13G",
+      "matches": [
+        {
+          "label": "2025-11-08 · @ Rumilly",
+          "date": "2025-11-08",
+          "home_away": "E",
+          "opponent": "Rumilly",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-16/1878"
+        },
+        {
+          "label": "2025-11-15 · vs Chamonix",
+          "date": "2025-11-15",
+          "home_away": "D",
+          "opponent": "Chamonix",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-16/1879"
+        },
+        {
+          "label": "2025-11-30 · @ Evian",
+          "date": "2025-11-30",
+          "home_away": "E",
+          "opponent": "Evian",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-16/1880"
+        }
+      ]
+    },
+    {
+      "label": "-13 Filles",
+      "key": "13F",
+      "matches": [
+        {
+          "label": "2025-11-08 · vs Evian",
+          "date": "2025-11-08",
+          "home_away": "D",
+          "opponent": "Evian",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-7/1871"
+        },
+        {
+          "label": "2025-11-15 · @ Evian",
+          "date": "2025-11-15",
+          "home_away": "E",
+          "opponent": "Evian",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-7/1872"
+        },
+        {
+          "label": "2025-11-29 · vs Annemasse",
+          "date": "2025-11-29",
+          "home_away": "D",
+          "opponent": "Annemasse",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-7/1873"
+        },
+        {
+          "label": "2025-12-06 · @ Genevois",
+          "date": "2025-12-06",
+          "home_away": "E",
+          "opponent": "Genevois",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-7/1874"
+        }
+      ]
+    },
+    {
+      "label": "Seniors Filles",
+      "key": "SF",
+      "matches": [
+        {
+          "label": "2025-11-08 · @ HANDBALL CLUB PAYS ROCHOIS",
+          "date": "2025-11-08",
+          "home_away": "E",
+          "opponent": "HANDBALL CLUB PAYS ROCHOIS",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1758"
+        },
+        {
+          "label": "2025-11-22 · vs ANNEMASSE HANDBALL",
+          "date": "2025-11-22",
+          "home_away": "D",
+          "opponent": "ANNEMASSE HANDBALL",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1759"
+        },
+        {
+          "label": "2025-11-29 · vs HBC LA FILLIÈRE",
+          "date": "2025-11-29",
+          "home_away": "D",
+          "opponent": "HBC LA FILLIÈRE",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1760"
+        },
+        {
+          "label": "2025-12-06 · @ ANNECY HANDBALL",
+          "date": "2025-12-06",
+          "home_away": "E",
+          "opponent": "ANNECY HANDBALL",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1761"
+        },
+        {
+          "label": "2025-12-13 · @ HBC GESSIEN - FERNEY VOLTAIRE",
+          "date": "2025-12-13",
+          "home_away": "E",
+          "opponent": "HBC GESSIEN - FERNEY VOLTAIRE",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1762"
+        },
+        {
+          "label": "2026-01-10 · vs CRUSEILLES HANDBALL CLUB",
+          "date": "2026-01-10",
+          "home_away": "D",
+          "opponent": "CRUSEILLES HANDBALL CLUB",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1763"
+        },
+        {
+          "label": "2026-01-17 · vs THONNON HANDBALL",
+          "date": "2026-01-17",
+          "home_away": "D",
+          "opponent": "THONNON HANDBALL",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1764"
+        },
+        {
+          "label": "2026-01-24 · vs HANDBALL CLUB PAYS ROCHOIS",
+          "date": "2026-01-24",
+          "home_away": "D",
+          "opponent": "HANDBALL CLUB PAYS ROCHOIS",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1765"
+        },
+        {
+          "label": "2026-01-31 · @ ANNEMASSE HANDBALL",
+          "date": "2026-01-31",
+          "home_away": "E",
+          "opponent": "ANNEMASSE HANDBALL",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-2/1766"
+        }
+      ]
+    },
+    {
+      "label": "-15 G",
+      "key": "U15MG",
+      "matches": [
+        {
+          "label": "J1 · 2025-10-04 · E · @ Albens",
+          "date": "2025-10-04",
+          "home_away": "E",
+          "opponent": "Albens",
+          "edit_url": "https://kalisport.com/admin/teams/u15mg/matches/10001/edit"
+        },
+        {
+          "label": "J2 · 2025-10-11 · D · vs Chamonix",
+          "date": "2025-10-11",
+          "home_away": "D",
+          "opponent": "Chamonix",
+          "edit_url": "https://kalisport.com/admin/teams/u15mg/matches/10002/edit"
+        },
+        {
+          "label": "J3 · 2025-11-08 · D · vs Entente Annecy-Poisy",
+          "date": "2025-11-08",
+          "home_away": "D",
+          "opponent": "Entente Annecy-Poisy",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-5/1855"
+        },
+        {
+          "label": "J4 · 2025-11-15 · E · @ Entente Annecy-Poisy",
+          "date": "2025-11-15",
+          "home_away": "E",
+          "opponent": "Entente Annecy-Poisy",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-5/1856"
+        },
+        {
+          "label": "J5 · 2025-11-29 · D · vs Chamonix",
+          "date": "2025-11-29",
+          "home_away": "D",
+          "opponent": "Chamonix",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-5/1857"
+        },
+        {
+          "label": "J6 · 2025-12-05 · E · @ Albens",
+          "date": "2025-12-05",
+          "home_away": "E",
+          "opponent": "Albens",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-5/1858"
+        }
+      ]
+    },
+    {
+      "label": "-15 F",
+      "key": "U15F",
+      "matches": [
+        {
+          "label": "J1 · 2025-10-04 · D · vs Oyonnax",
+          "date": "2025-10-04",
+          "home_away": "D",
+          "opponent": "Oyonnax",
+          "edit_url": "https://kalisport.com/admin/teams/u15f/matches/20001/edit"
+        },
+        {
+          "label": "J2 · 2025-10-11 · E · @ Genevois",
+          "date": "2025-10-11",
+          "home_away": "E",
+          "opponent": "Genevois",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-6/1864"
+        },
+        {
+          "label": "J3 · 2025-11-08 · E · @ Reventmont",
+          "date": "2025-11-08",
+          "home_away": "E",
+          "opponent": "Reventmont",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-6/1865"
+        },
+        {
+          "label": "J4 · 2025-11-15 · D · vs Reventmont",
+          "date": "2025-11-15",
+          "home_away": "D",
+          "opponent": "Reventmont",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-6/1866"
+        },
+        {
+          "label": "J5 · 2025-11-29 · D · vs Genevois",
+          "date": "2025-11-29",
+          "home_away": "D",
+          "opponent": "Genevois",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-6/1867"
+        },
+        {
+          "label": "J6 · 2025-12-06 · E · @ Oyonnax",
+          "date": "2025-12-06",
+          "home_away": "E",
+          "opponent": "Oyonnax",
+          "edit_url": "https://handball-club-bons-en-chablais.com/private/programme/resume/equipe-6/1868"
+        }
+      ]
+    }
+  ]
+}
